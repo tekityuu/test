@@ -4,3 +4,4 @@ aaaaaa
 good night
 paty yeah
 クローンテスト
+競合作成
